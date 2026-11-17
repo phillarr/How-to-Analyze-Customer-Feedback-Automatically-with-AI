@@ -1,6 +1,6 @@
 # How to Analyze Customer Feedback Automatically with AI
 
-A [Make.com](https://www.make.com) scenario that collects customer feedback from a Google Form, uses an AI model (Mistral) to detect the sentiment, write a short summary and pick a category, then logs everything in a Google Sheet.
+A scenario that collects customer feedback from a Google Form, uses an AI model (Mistral) to detect the sentiment, write a short summary and pick a category, then logs everything in a Google Sheet.
 
 ▶️ **Video tutorial:** [watch on YouTube](https://www.youtube.com/watch?v=gPt_aprsxeQ)
 
