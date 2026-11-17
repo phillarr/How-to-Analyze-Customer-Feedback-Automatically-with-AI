@@ -69,7 +69,7 @@ Create a spreadsheet with a header row, in this order:
 
 ## Customizing
 
-- **Prompt**: change the analysis rules in the Mistral module. [`prompt.md`](prompt.md) has the latest version of the prompt; paste it into the module's system message to use it.
+- **Prompt**: change the analysis rules in the Mistral module. [`prompt.md`](prompt.md) has a readable copy of the prompt used in the scenario.
 - **Categories**: edit the list of categories in the prompt to match your business.
 - **Model**: any Mistral model works. A lower `temperature` (for example `0.2`) gives more consistent classification.
 - **Other sources**: swap Google Forms for Typeform, Tally, emails, app reviews, etc.
