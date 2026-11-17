@@ -8,6 +8,8 @@ A [Make.com](https://www.make.com) scenario that collects customer feedback from
 
 ## The scenario
 
+![Make.com scenario: Google Forms → Mistral AI → JSON → Google Sheets](images/make-scenario.png)
+
 ```
 Google Forms (new response) ──► Mistral AI (analyze feedback as JSON) ──► Parse JSON ──► Google Sheets (add row)
 ```
